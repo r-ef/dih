@@ -435,7 +435,7 @@
                                 className: "text-2xl text-neutral-400"
                             })
                         }), (0, n.jsx)("a", {
-                            href: "https://discord.gg/pvptrade",
+                            href: "https://discord.gg/dih",
                             target: "_blank",
                             children: (0, n.jsx)(b.j2d, {
                                 className: "text-2xl text-neutral-400"
