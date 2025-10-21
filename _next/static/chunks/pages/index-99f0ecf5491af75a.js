@@ -147,10 +147,10 @@
                         content: s
                     }), (0, n.jsx)("meta", {
                         property: "twitter:site",
-                        content: "@pvp_dot_trade"
+                        content: "@@dih"
                     }), (0, n.jsx)("meta", {
                         property: "twitter:creator",
-                        content: "@pvp_dot_trade"
+                        content: "@@dih"
                     }), (0, n.jsx)("meta", {
                         property: "twitter:description",
                         content: r
@@ -429,7 +429,7 @@
                         className: "flex flex-row items-center justify-start mt-8 gap-4 pointer-events-auto",
                         ref: t => i.current[5] = t,
                         children: [(0, n.jsx)("a", {
-                            href: "https://twitter.com/pvp_dot_trade",
+                            href: "https://twitter.com/@dih",
                             target: "_blank",
                             children: (0, n.jsx)(b.fWC, {
                                 className: "text-2xl text-neutral-400"
@@ -528,12 +528,12 @@
                 (0, k.useRouter)();
                 return (0, n.jsxs)(n.Fragment, {
                     children: [(0, n.jsx)(_.Z, {
-                        title: "Home | dih",
+                        title: "dih",
                         description: "Don't get liquidated.",
                         ogImageUrl: "https://cdn.dih/og.png"
                     }), (0, n.jsx)(i(), {
                         children: (0, n.jsx)("title", {
-                            children: "Home | dih"
+                            children: "dih"
                         })
                     }), (0, n.jsxs)("div", {
                         className: "flex flex-col justify-between",
