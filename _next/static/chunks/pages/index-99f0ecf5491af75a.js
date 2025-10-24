@@ -17,7 +17,7 @@
 
             function i() {
                 return (0, n.jsx)("a", {
-                    href: "https://t.me/dihtrade_bot",
+                    href: "https://app.dih.me",
                     target: "_blank",
                     children: (0, n.jsxs)("div", {
                         className: "pointer-events-auto flex flex-row items-center rounded-full bg-[#ffffff] px-4 py-3 cursor-pointer",
@@ -78,7 +78,7 @@
                                 "text-white": "faq" === e,
                                 "text-neutral-300": "faq" !== e
                             }),
-                            href: "https://docs.dih",
+                            href: "https://docs.dih.me",
                             target: "_blank",
                             children: "Docs"
                         })]
